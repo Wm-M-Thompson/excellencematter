@@ -10,6 +10,7 @@ export default function Resources() {
           <a 
             href="/pdfs/WEC_Catalog.pdf" 
             className="text-blue-600 hover:underline"
+            target="_blank" rel="noopener noreferrer"
           >
             Product Catalog (PDF)
           </a>
@@ -18,6 +19,7 @@ export default function Resources() {
           <a 
             href="/pdfs/WEC_colorchart_finalcoating.pdf" 
             className="text-blue-600 hover:underline"
+            target="_blank" rel="noopener noreferrer"
           >
             Color Chart
           </a>
@@ -26,6 +28,7 @@ export default function Resources() {
           <a 
             href="/pdfs/lockerinstallation.pdf" 
             className="text-blue-600 hover:underline"
+            target="_blank" rel="noopener noreferrer"
           >
             Installation Guide
           </a>
