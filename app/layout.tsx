@@ -6,14 +6,38 @@ import Link from "next/link";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "WEC MFG | High-Quality Metal Lockers & Storage Solutions",
+  title: {
+    default: "WEC MFG | High-Quality Metal Lockers & Storage Solutions",
+    template: "%s | WEC MFG",  // This makes page-specific titles like "Resources | WEC MFG"
+  },
   description: "WEC Manufacturing: Custom metal lockers since 1987. Durable, made-to-order solutions for schools, gyms, industrial use. Proudly serving the USA and globally.",
-  keywords: "wec mfg, wec manufacturing, metal lockers, custom lockers, storage solutions",
+  keywords: "wec mfg, wec manufacturing, metal lockers, custom lockers, storage solutions, school lockers, gym lockers, industrial lockers",
+  // Add these for better control
+  robots: "index, follow",  // Explicitly allow indexing (good default, but harmless to add)
+  alternates: {
+    canonical: "https://excellencematter.net/",  // Prevents duplicate content issues if you have www/non-www or subdomains
+  },
   openGraph: {
-    title: "WEC MFG",
-    description: "Leading manufacturer of durable metal lockers.",
-    url: "https://itswec.thompsonsoftware.tech",
+    title: "WEC MFG – Custom Metal Lockers & Storage Solutions",
+    description: "Leading US manufacturer of durable, custom metal lockers since 1987. Ideal for schools, gyms, and industrial applications.",
+    url: "https://excellencematter.net/",
+    siteName: "WEC MFG",
+    images: [
+      {
+        url: "https://excellencematter.net/og-image.jpg",  // Add a real 1200x630 image in /public/
+        width: 1200,
+        height: 630,
+        alt: "WEC MFG metal lockers",
+      },
+    ],
+    locale: "en_US",
     type: "website",
+  },
+  twitter: {  // Optional but helps with X shares
+    card: "summary_large_image",
+    title: "WEC MFG | Metal Lockers & Storage",
+    description: "Custom durable metal lockers since 1987.",
+    images: ["https://excellencematter.net/og-image.jpg"],
   },
 };
 
@@ -56,20 +80,43 @@ export default function RootLayout({
         {/* Submenu under Lockers */}
         <div className="absolute left-full top-0 hidden group-hover/sub:block bg-white text-gray-800 shadow-lg rounded-md min-w-[220px] -ml-1 z-50 dropdown-content">
           <ul className="py-2">
-            <li><Link href="/products/metal-lockers" className="block px-4 py-2 hover:bg-gray-100">Metal Lockers</Link></li>
-            <li><Link href="/products/durable" className="block px-4 py-2 hover:bg-gray-100">Durable</Link></li>
-            <li><Link href="/products/durable-plus" className="block px-4 py-2 hover:bg-gray-100">Durable Plus</Link></li>
-            <li><Link href="/products/competitive" className="block px-4 py-2 hover:bg-gray-100">Competitive</Link></li>
-            <li><Link href="/products/athletic" className="block px-4 py-2 hover:bg-gray-100">Athletic</Link></li>
-            <li><Link href="/products/all-welded-plus" className="block px-4 py-2 hover:bg-gray-100">All-Welded Plus</Link></li>
-            <li><Link href="/products/angle-iron" className="block px-4 py-2 hover:bg-gray-100">Angle Iron</Link></li>
-            <li><Link href="/products/locker-images" className="block px-4 py-2 hover:bg-gray-100">Locker Images</Link></li>
+            <li><Link href="/public/pdfs/METAL_LOCKERS_WEC.pdf" 
+            className="block px-4 py-2 hover:bg-gray-100"
+            target="_blank" rel="noopener noreferrer"
+            >Metal Lockers</Link></li>
+            <li><Link href="/public/pdfs/Durable_Plus_Series.pdf" 
+            className="block px-4 py-2 hover:bg-gray-100"
+            >Durable</Link></li>
+            <li><Link href="/public/pdfs/Durable_Plus_Series.pdf" 
+            className="block px-4 py-2 hover:bg-gray-100"
+            target="_blank" rel="noopener noreferrer"
+            >Durable Plus</Link></li>
+            <li><Link href="/public/pdfs/WEC_Competitive_Specs_9_19_2014_FINAL.pdf" 
+            className="block px-4 py-2 hover:bg-gray-100"
+            target="_blank" rel="noopener noreferrer"
+            >Competitive</Link></li>
+            <li><Link href="/public/pdfs/WEC_Athletic_Specs_9_19_2014_FINAL.pdf" 
+            className="block px-4 py-2 hover:bg-gray-100"
+            target="_blank" rel="noopener noreferrer"
+            >Athletic</Link></li>
+            <li><Link href="/public/pdfs/WEC_All_Welded_Plus_Specs_9_19_2014_FINAL.pdf" 
+            className="block px-4 py-2 hover:bg-gray-100"
+            target="_blank" rel="noopener noreferrer"
+            >All-Welded Plus</Link></li>
+            <li><Link href="/public/pdfs/WEC_Angle_Iron_Series.pdf" 
+            className="block px-4 py-2 hover:bg-gray-100"
+            target="_blank" rel="noopener noreferrer"
+            >Angle Iron</Link></li>
+            <li><Link href="/public/pdfs/PROJECT_GALLERY_WEC.pdf" 
+            className="block px-4 py-2 hover:bg-gray-100"
+            target="_blank" rel="noopener noreferrer"
+            >Locker Images</Link></li>
           </ul>
         </div>
       </li>
 
       <li>
-        <Link href="/products/other" className="block px-4 py-2 hover:bg-gray-100">Other Products</Link>
+        <Link href="https://pdf.excellencematter.net/OTHER%20PRODUCTS%20_%20WEC.pdf" className="block px-4 py-2 hover:bg-gray-100">Other Products</Link>
       </li>
     </ul>
   </div>
