@@ -80,34 +80,34 @@ export default function RootLayout({
         {/* Submenu under Lockers */}
         <div className="absolute left-full top-0 hidden group-hover/sub:block bg-white text-gray-800 shadow-lg rounded-md min-w-[220px] -ml-1 z-50 dropdown-content">
           <ul className="py-2">
-            <li><Link href="/public/pdfs/METAL_LOCKERS_WEC.pdf" 
+            <li><Link href="/pdfs/METAL_LOCKERS_WEC.pdf" 
             className="block px-4 py-2 hover:bg-gray-100"
             target="_blank" rel="noopener noreferrer"
             >Metal Lockers</Link></li>
-            <li><Link href="/public/pdfs/Durable_Plus_Series.pdf" 
+            <li><Link href="/pdfs/Durable_Plus_Series.pdf" 
             className="block px-4 py-2 hover:bg-gray-100"
             >Durable</Link></li>
-            <li><Link href="/public/pdfs/Durable_Plus_Series.pdf" 
+            <li><Link href="/pdfs/Durable_Plus_Series.pdf" 
             className="block px-4 py-2 hover:bg-gray-100"
             target="_blank" rel="noopener noreferrer"
             >Durable Plus</Link></li>
-            <li><Link href="/public/pdfs/WEC_Competitive_Specs_9_19_2014_FINAL.pdf" 
+            <li><Link href="/pdfs/WEC_Competitive_Specs_9_19_2014_FINAL.pdf" 
             className="block px-4 py-2 hover:bg-gray-100"
             target="_blank" rel="noopener noreferrer"
             >Competitive</Link></li>
-            <li><Link href="/public/pdfs/WEC_Athletic_Specs_9_19_2014_FINAL.pdf" 
+            <li><Link href="/pdfs/WEC_Athletic_Specs_9_19_2014_FINAL.pdf" 
             className="block px-4 py-2 hover:bg-gray-100"
             target="_blank" rel="noopener noreferrer"
             >Athletic</Link></li>
-            <li><Link href="/public/pdfs/WEC_All_Welded_Plus_Specs_9_19_2014_FINAL.pdf" 
+            <li><Link href="/pdfs/WEC_All_Welded_Plus_Specs_9_19_2014_FINAL.pdf" 
             className="block px-4 py-2 hover:bg-gray-100"
             target="_blank" rel="noopener noreferrer"
             >All-Welded Plus</Link></li>
-            <li><Link href="/public/pdfs/WEC_Angle_Iron_Series.pdf" 
+            <li><Link href="/pdfs/WEC_Angle_Iron_Series.pdf" 
             className="block px-4 py-2 hover:bg-gray-100"
             target="_blank" rel="noopener noreferrer"
             >Angle Iron</Link></li>
-            <li><Link href="/public/pdfs/PROJECT_GALLERY_WEC.pdf" 
+            <li><Link href="/pdfs/PROJECT_GALLERY_WEC.pdf" 
             className="block px-4 py-2 hover:bg-gray-100"
             target="_blank" rel="noopener noreferrer"
             >Locker Images</Link></li>
