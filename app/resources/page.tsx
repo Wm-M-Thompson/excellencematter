@@ -8,7 +8,7 @@ export default function Resources() {
       <ul className="list-disc pl-6 max-w-3xl mx-auto">
         <li>
           <a 
-            href="https://helpfulfiles.excellencematter.net/WEC%20Catalog.pdf" 
+            href="/pdfs/WEC_Catalog.pdf" 
             className="text-blue-600 hover:underline"
           >
             Product Catalog (PDF)
@@ -16,7 +16,7 @@ export default function Resources() {
         </li>
         <li>
           <a 
-            href="https://helpfulfiles.excellencematter.net/WEC_colorchart_finalcoating.pdf" 
+            href="/pdfs/WEC_colorchart_finalcoating.pdf" 
             className="text-blue-600 hover:underline"
           >
             Color Chart
@@ -24,7 +24,7 @@ export default function Resources() {
         </li>
         <li>
           <a 
-            href="https://helpfulfiles.excellencematter.net/lockerinstallation.pdf" 
+            href="/pdfs/lockerinstallation.pdf" 
             className="text-blue-600 hover:underline"
           >
             Installation Guide
