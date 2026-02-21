@@ -116,7 +116,7 @@ export default function RootLayout({
       </li>
 
       <li>
-        <Link href="https://pdf.excellencematter.net/OTHER%20PRODUCTS%20_%20WEC.pdf" className="block px-4 py-2 hover:bg-gray-100">Other Products</Link>
+        <Link href="/pdf/OTHER_PRODUCTS_WEC.pdf" className="block px-4 py-2 hover:bg-gray-100">Other Products</Link>
       </li>
     </ul>
   </div>
