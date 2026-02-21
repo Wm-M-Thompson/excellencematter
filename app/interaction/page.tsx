@@ -8,7 +8,7 @@ export default function Interaction() {
       <p className="text-lg text-center max-w-3xl mx-auto mb-6">
         Join the community to discuss custom metal lockers, storage solutions, and more!
       </p>
-      <a href="https://memberful.com" className="block text-center bg-blue-600 text-white px-6 py-3 rounded max-w-xs mx-auto">Register Now</a>
+      <a href="/coming-soon" className="block text-center bg-blue-600 text-white px-6 py-3 rounded max-w-xs mx-auto hover:bg-blue-700">Register Now</a>
     </main>
   );
 }
