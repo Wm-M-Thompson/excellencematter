@@ -9,7 +9,7 @@ export default function Resources() {
 
         {/* Left Column */}
         <div>
-          <ul className="list-disc pl-6 mb-4">
+          <ul className="list-disc pl-6 mb-6">
             <li>
               <a href="/pdfs/WEC_Catalog.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
                 Product Catalog (PDF)
@@ -48,7 +48,7 @@ export default function Resources() {
           </ul>
 
           <h2 className="text-xl font-bold mb-2">Forms:</h2>
-          <ul className="list-disc pl-6">
+          <ul className="list-disc pl-6 mb-6">
             <li>
               <a href="/pdfs/SKMBT_C45110071915350.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
                 New Customer Account Information Form
@@ -59,12 +59,46 @@ export default function Resources() {
                 Credit Card Authorization Form
               </a>
             </li>
+            <li>
+              <a href="/pdfs/CreditApplication.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Credit Application for A Business Account Form
+              </a>
+            </li>
+          </ul>
+
+          <h2 className="text-xl font-bold mb-2">Detailed and Illustrated Specifications:</h2>
+          <ul className="list-disc pl-6">
+            <li>
+              <a href="/pdfs/Durable_Series.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Durable Series Specification
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/Durable_Plus_Series.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Durable Plus Series Specification
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/Athletic_Series.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Athletic Series Specification
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/Angle_Iron_Series.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Angle Iron Series Specification
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/All_Welded_Series.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                All Welded Series Specification
+              </a>
+            </li>
           </ul>
         </div>
 
         {/* Right Column */}
         <div>
-          <ul className="list-disc pl-6 mb-4">
+          <ul className="list-disc pl-6 mb-6">
             <li>
               <a href="/pdfs/Assembly_Instructions.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
                 Assembly Instructions
@@ -73,7 +107,7 @@ export default function Resources() {
           </ul>
 
           <h2 className="text-xl font-bold mb-2">Drawings:</h2>
-          <ul className="list-disc pl-6">
+          <ul className="list-disc pl-6 mb-6">
             <li>
               <a href="/pdfs/SKMBT_C45110110313201.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
                 Competitive Single Tier Locker Drawing
@@ -107,6 +141,45 @@ export default function Resources() {
             <li>
               <a href="/pdfs/ZeeBaseDetailModel.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
                 Zee Base Detail Drawing
+              </a>
+            </li>
+          </ul>
+
+          <h2 className="text-xl font-bold mb-2">Textual Specifications:</h2>
+          <ul className="list-disc pl-6">
+            <li>
+              <a href="/pdfs/WEC_Durable_Specs_7_21_2014_FINAL.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Durable Series
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/WEC_Durable_Plus_Specs_9_19_14_2014_FINAL.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Durable Plus Series
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/SKMBT_C45110110313WEC_Competitive_Specs_9_19_2014_FINAL.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Competitive Series
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/WEC_Athletic_Specs_9_19_2014_FINAL.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Athletic Series
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/WEC_Angle_Iron_Series.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Angle Iron Series
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/WEC_All_Welded_Plus_Specs_9_19_2014_FINAL.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                All Welded Plus Series
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/Fire_&_Rescue_Competitive_Specs_10_14_2014_FINAL.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Fire & Rescue Lockers: Competitive Series
               </a>
             </li>
           </ul>
