@@ -6,34 +6,63 @@ export default function Resources() {
         Download catalogs, color charts, and guides for WEC MFG products. Your one-stop source for locker info.
       </p>
       <div className="grid md:grid-cols-2 gap-8 max-w-3xl mx-auto">
-        <ul className="list-disc pl-6">
-          <li>
-            <a href="/pdfs/WEC_Catalog.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
-              Product Catalog (PDF)
-            </a>
-          </li>
-          <li>
-            <a href="/pdfs/WEC_colorchart_finalcoating.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
-              Color Chart
-            </a>
-          </li>
-          <li>
-            <a href="/pdfs/lockerinstallation.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
-              Installation Guide
-            </a>
-          </li>
-          <li>
-            <a href="/pdfs/Preparation_Instructions.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
-              Preparation Instructions
-            </a>
-          </li>
-          <li>
-            <a href="/pdfs/Material_safety.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
-              Material Safety Data Sheet
-            </a>
-          </li>
-        </ul>
 
+        {/* Left Column */}
+        <div>
+          <ul className="list-disc pl-6 mb-4">
+            <li>
+              <a href="/pdfs/WEC_Catalog.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Product Catalog (PDF)
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/WEC_colorchart_finalcoating.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Color Chart
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/lockerinstallation.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Installation Guide
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/Preparation_Instructions.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Preparation Instructions
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/Material_safety.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Material Safety Data Sheet
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/WEC_Operations_and_Maintenance_Guide_10_03_19.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Operations and Maintenance Guide
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/General_Information.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                General Information
+              </a>
+            </li>
+          </ul>
+
+          <h2 className="text-xl font-bold mb-2">Forms:</h2>
+          <ul className="list-disc pl-6">
+            <li>
+              <a href="/pdfs/SKMBT_C45110071915350.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                New Customer Account Information Form
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/SKMBT_C45110071915351.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Credit Card Authorization Form
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        {/* Right Column */}
         <div>
           <ul className="list-disc pl-6 mb-4">
             <li>
@@ -82,6 +111,7 @@ export default function Resources() {
             </li>
           </ul>
         </div>
+
       </div>
     </main>
   );
