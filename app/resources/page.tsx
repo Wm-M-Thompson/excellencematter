@@ -47,7 +47,7 @@ export default function Resources() {
             </li>
           </ul>
 
-          <h2 className="text-xl font-bold mb-2">Forms:</h2>
+          <h2 className="text-xl font-bold mt-6 mb-2">Forms:</h2>
           <ul className="list-disc pl-6 mb-6">
             <li>
               <a href="/pdfs/SKMBT_C45110071915350.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
@@ -66,8 +66,8 @@ export default function Resources() {
             </li>
           </ul>
 
-          <h2 className="text-xl font-bold mb-2">Detailed and Illustrated Specifications:</h2>
-          <ul className="list-disc pl-6">
+          <h2 className="text-xl font-bold mt-6 mb-2">Detailed and Illustrated Specifications:</h2>
+          <ul className="list-disc pl-6 mb-6">
             <li>
               <a href="/pdfs/Durable_Series.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
                 Durable Series Specification
@@ -94,6 +94,55 @@ export default function Resources() {
               </a>
             </li>
           </ul>
+
+          <h2 className="text-xl font-bold mt-6 mb-2">Archived Web Pages:</h2>
+          <ul className="list-disc pl-6 mb-6">
+            <li>
+              <a href="/pdfs/ABOUT_WEC.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Archived About WEC Page
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/FAST_TRACK_STOCKING_WEC.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Archived Fact Tracking WEC Page
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/GENERAL_INFORMATION_WEC.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Archived General Information WEC Page
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/LATEST_UPDATES_WEC.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Archived Latest Updates WEC Page
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/METAL_LOCKERS_WEC.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Archived Metal Lockers WEC Page
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/OTHER_PRODUCTS_WEC.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Archived Other Products WEC Page
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/Privacy_Policy_WEC.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Archived Privacy Policy WEC Page
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/PROJECT_GALLERY_WEC.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Archived Project Gallery WEC Page
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/SERVICES_WEC.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Archived Services WEC Page
+              </a>
+            </li>
+          </ul>
         </div>
 
         {/* Right Column */}
@@ -106,7 +155,7 @@ export default function Resources() {
             </li>
           </ul>
 
-          <h2 className="text-xl font-bold mb-2">Drawings:</h2>
+          <h2 className="text-xl font-bold mt-6 mb-2">Drawings:</h2>
           <ul className="list-disc pl-6 mb-6">
             <li>
               <a href="/pdfs/SKMBT_C45110110313201.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
@@ -145,8 +194,8 @@ export default function Resources() {
             </li>
           </ul>
 
-          <h2 className="text-xl font-bold mb-2">Textual Specifications:</h2>
-          <ul className="list-disc pl-6">
+          <h2 className="text-xl font-bold mt-6 mb-2">Textual Specifications:</h2>
+          <ul className="list-disc pl-6 mb-6">
             <li>
               <a href="/pdfs/WEC_Durable_Specs_7_21_2014_FINAL.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
                 Durable Series
@@ -180,6 +229,40 @@ export default function Resources() {
             <li>
               <a href="/pdfs/Fire_&_Rescue_Competitive_Specs_10_14_2014_FINAL.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
                 Fire & Rescue Lockers: Competitive Series
+              </a>
+            </li>
+          </ul>
+
+          <h2 className="text-xl font-bold mt-6 mb-2">Third Party Business Documentations:</h2>
+          <ul className="list-disc pl-6 mb-6">
+            <li>
+              <a href="/pdfs/2024_0320-Taylor-Animal-Sidock-Project-Manaual.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Lockers for City of Taylor Animal Shelter
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/Addendum2PKG3DGPHSNewBattingCagesFacility.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Lockers for PBK Architects, Inc
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/Energy-Design-Guide-for-Schools.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Advanced Energy Design Guide for K-12 School Building
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/July_6_2017_(Due_Date)_Invitation_to_Bid-Addendum_Number_1_(PDF).pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Mansfield Middle School Locker Room Renovations
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/kenton_co_dfp.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Kenton County Schools District Facility Plan
+              </a>
+            </li>
+            <li>
+              <a href="/pdfs/XII_A_5_KentonCoDFP_0.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                Kenton County Schools District Facility Plan with DFP Revisions
               </a>
             </li>
           </ul>
