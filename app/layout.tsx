@@ -10,6 +10,9 @@ export const metadata: Metadata = {
     default: "WEC MFG | High-Quality Metal Lockers & Storage Solutions",
     template: "%s | WEC MFG",  // This makes page-specific titles like "Resources | WEC MFG"
   },
+  verification: {
+    google: "d6c7hP8Hhju66lDKVQy8mKByCtYAPJnnMIGaxq8-PEs",
+  },
   description: "WEC Manufacturing: Custom metal lockers since 1987. Durable, made-to-order solutions for schools, gyms, industrial use. Proudly serving the USA and globally.",
   keywords: "wec mfg, wec manufacturing, metal lockers, custom lockers, storage solutions, school lockers, gym lockers, industrial lockers",
   // Add these for better control
