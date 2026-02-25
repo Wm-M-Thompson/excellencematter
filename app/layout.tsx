@@ -52,6 +52,33 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
+
+
+  <script
+    type="application/ld+json"
+    dangerouslySetInnerHTML={{
+      __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "ManufacturingBusiness",
+        "name": "WEC Manufacturing",
+        "url": "https://excellencematter.net",
+        "telephone": "469-640-6287",
+        "email": "info@itswec.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "P.O. Box 130508",
+          "addressLocality": "Dallas",
+          "addressRegion": "TX",
+          "postalCode": "75313",
+          "addressCountry": "US"
+        },
+        "description": "Custom metal lockers manufacturer since 1987",
+        "foundingDate": "1987"
+      })
+    }}
+  />
+
+
         {/* Header */}
         <header className="bg-blue-900 text-white py-4 shadow-md">
           <div className="container mx-auto px-4 flex justify-between items-center">
