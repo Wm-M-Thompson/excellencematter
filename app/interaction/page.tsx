@@ -1,3 +1,11 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Interaction | WEC MFG",
+  description: "WEC MFG Interaction Page",
+};
+
+
 export default function Interaction() {
   return (
     <main className="container mx-auto px-4 py-16">

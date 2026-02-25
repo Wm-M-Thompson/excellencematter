@@ -1,3 +1,10 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Resources | WEC MFG",
+  description: "Download WEC MFG product catalogs, color charts, installation guides, drawings, and specifications for metal lockers.",
+};
+
 export default function Resources() {
   return (
     <main className="container mx-auto px-4 py-16">

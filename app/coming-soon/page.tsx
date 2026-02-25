@@ -1,3 +1,11 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Coming Soon | WEC MFG",
+  description: "WEC MFG Coming Soon Page",
+};
+
+
 export const dynamic = 'force-static'
 
 export default function ComingSoon() {
