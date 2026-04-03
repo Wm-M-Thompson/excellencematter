@@ -1,3 +1,11 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Interaction | WEC MFG",
+  description: "WEC MFG Interaction Page",
+};
+
+
 export default function Interaction() {
   return (
     <div style={{ 

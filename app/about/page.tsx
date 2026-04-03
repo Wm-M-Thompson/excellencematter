@@ -1,3 +1,10 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "About | WEC MFG",
+  description: "WEC MFG About Page",
+};
+
 export default function About() {
   return (
     <main className="container mx-auto px-4 py-16">

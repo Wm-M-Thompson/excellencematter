@@ -1,3 +1,10 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Contact | WEC MFG",
+  description: "WEC MFG Contact Page",
+};
+
 export default function Contact() {
   return (
     <main className="container mx-auto px-4 py-16">
