@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Three.js CAD Repo Analysis</title>
+<style>
+  body { font-family: Arial, sans-serif; }
+  table { width: 100%; border-collapse: collapse; }
+  td { border: 1px solid #000; vertical-align: top; padding: 10px; }
+  ul { margin: 0; padding-left: 18px; }
+</style>
+</head>
+<body>
+
+<table>
+
+<tr>
+<td><b>JavaScript / Three.js</b></td>
+<td>Core browser technology + rendering engine</td>
+<td>
+<ul>
+<li>✅ <b>Good for:</b> rendering, UI logic, interaction</li>
+<li>❌ <b>Bad for:</b> real CAD math (precision geometry, constraints)</li>
+<li>⚠️ <b>Reality:</b> Three.js = visualization only — CAD logic must be added separately</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td><b>bernhard-42/three-cad-viewer</b></td>
+<td>Three.js CAD viewer component</td>
+<td>
+<ul>
+<li>✅ <b>Good for:</b> viewing and interacting with CAD models</li>
+<li>❌ <b>Bad for:</b> building a CAD editor</li>
+<li>⚠️ <b>Missing:</b> geometry engine</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td><b>mlt131220/Astral3D</b></td>
+<td>Vue3 + Three.js 3D editor framework</td>
+<td>
+<ul>
+<li>✅ <b>Good for:</b> full 3D editor framework (UI, scene, plugins)</li>
+<li>⚠️ <b>Value:</b> best starting point for building an app quickly</li>
+<li>❌ <b>Missing:</b> real CAD logic (constraints, parametrics)</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td><b>twpride/three.cad</b></td>
+<td>Parametric CAD web app (React + WASM)</td>
+<td>
+<ul>
+<li>✅ <b>Good for:</b> parametric modeling, constraints, CAD architecture</li>
+<li>⚠️ <b>Value:</b> most “correct” CAD implementation in browser</li>
+<li>❌ <b>Tradeoff:</b> complex, not ideal as starting base</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td><b>socialtables/openfpc</b></td>
+<td>2D floor plan CAD editor</td>
+<td>
+<ul>
+<li>✅ <b>Good for:</b> interaction model, snapping, layout editing</li>
+<li>⚠️ <b>Value:</b> strong UI/UX reference for CAD tools</li>
+<li>❌ <b>Limit:</b> 2D only, no parametric modeling</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td><b>QQBoxy/threecad</b></td>
+<td>Three.js CAD-style modeling system</td>
+<td>
+<ul>
+<li>✅ <b>Good for:</b> sketch → extrude → boolean workflow</li>
+<li>⚠️ <b>Value:</b> closest to real CAD behavior</li>
+<li>❌ <b>Risk:</b> incomplete and not production-ready</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td><b>thingraph/dwg-viewer-example</b></td>
+<td>DWG/DXF viewer (Three.js)</td>
+<td>
+<ul>
+<li>✅ <b>Good for:</b> importing and viewing CAD files</li>
+<li>⚠️ <b>Role:</b> file import / visualization layer</li>
+<li>❌ <b>Missing:</b> editing and modeling</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td><b>louistrue/ifc5cad</b></td>
+<td>IFC CAD system (OpenCascade + Three.js)</td>
+<td>
+<ul>
+<li>✅ <b>Good for:</b> real CAD geometry engine (OpenCascade)</li>
+<li>⚠️ <b>Value:</b> closest to professional CAD kernel</li>
+<li>❌ <b>Use later:</b> complex and heavy for starting point</li>
+</ul>
+</td>
+</tr>
+
+</table>
+
+</body>
+</html>
