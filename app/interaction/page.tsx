@@ -5,8 +5,15 @@ export const metadata: Metadata = {
   description: "WEC MFG Interaction Page",
 };
 
+export default function Interaction({
+  searchParams,
+}: {
+  searchParams: { redirect?: string };
+}) {
+  const iframeSrc = searchParams.redirect
+    ? decodeURIComponent(searchParams.redirect)
+    : "https://bbpress.excellencematter.net/interaction/";
 
-export default function Interaction() {
   return (
     <div style={{ 
       width: '100%',
@@ -14,7 +21,7 @@ export default function Interaction() {
       overflow: 'hidden'
     }}>
       <iframe
-        src="https://bbpress.excellencematter.net/interaction/"
+        src={iframeSrc}
         style={{ width: '100%', height: '100%', border: 'none' }}
         title="LikableLogic Forum"
       />
