@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 26.2.1.2 (Windows)"/>
+	<meta name="author" content="William Thompson"/>
+	<meta name="created" content="2026-04-30T00:00:00.005294830"/>
+	<meta name="changed" content="2026-05-07T15:02:59.636981400"/>
+	<style type="text/css">
+		p { margin-bottom: 0.1in }
+		pre.cjk { font-family: "NSimSun", monospace }
+		h2.cjk { font-family: "SimSun" }
+		h2.ctl { font-family: "Lucida Sans" }
+		code.cjk { font-family: "NSimSun", monospace }
+	</style>
+</head>
+<body lang="en-US" dir="ltr">
+<div id="user-content-configuration" dir="ltr" style="position: absolute; top: 0.2in; left: -0.29in; width: 0.29in; border: none; padding: 0in; background: #ffffff"><p>
+	<br/>
+<br/>
+
+	</p>
+</div>
+<pre class="western" style="margin-bottom: 0.2in; widows: 2; border: none; padding: 0in; line-height: 145%; orphans: 2; background: #f6f8fa"><code class="western"><span style="font-variant: normal"><font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt"><span style="font-style: normal"><span style="font-weight: normal"><span style="background: #f6f8fa">How do I get an </span></span></span></font></font></font></span></code><code class="western"><span style="font-variant: normal"><font color="#1f2328"><font face="Mona Sans VF, apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt"><span style="font-style: normal"><span style="font-weight: normal"><span style="background: #f6f8fa">Anthropic API key?</span></span></span></font></font></font></span></code></pre><p>
+C:\source\locker-cad\core\lcad-ai-nova</p>
+<p>I open the folder and click to debug and it asks for a language.
+What should I pick?</p>
+<p>It is from <a href="https://github.com/NovaVector-Holdings/nova-designer-3d"><span style="font-variant: normal"><font color="#60a5fa"><span style="text-decoration: none"><font face="IBM Plex Sans, sans-serif"><font size="2" style="font-size: 9pt"><span style="font-style: normal"><span style="font-weight: normal">NovaVector-Holdings/nova-designer-3d</span></span></font></font></span></font></span></a>
+</p>
+<pre class="western"><font color="#00e5ff">   </font><span style="font-variant: normal"><font color="#00e5ff"><font face="IBM Plex Mono, monospace"><span style="font-style: normal"><span style="font-weight: normal">git clone</span></span></font></font></span><font color="#00e5ff"> </font><a href="https://github.com/NovaVector-Holdings/nova-designer-3d.git"><span style="font-variant: normal"><font color="#00e5ff"><span style="font-style: normal"><span style="font-weight: normal">https://github.com/NovaVector-Holdings/nova-designer-3d.git</span></span></font></span></a>
+
+
+PS C:\source\locker-cad\core\lcad-ai-nova&gt; npm run server
+
+&gt; nova-designer-3d@1.0.0 server
+&gt; node server.js
+
+CAD API Server running on port 3001
+Make sure ANTHROPIC_API_KEY is set in environment</pre><h2 class="western" style="font-style: normal; font-variant: normal">
+<font color="#1f2328"><font face="Mona Sans VF, apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt"><b>Configuration</b></font></font></font></h2>
+<p style="orphans: 2; font-weight: normal; font-style: normal; font-variant: normal; margin-bottom: 0.17in; widows: 2">
+<font color="#1f2328"><font face="Mona Sans VF, apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt">Set
+your Anthropic API key:</font></font></font></p>
+<pre class="western" style="margin-bottom: 0.2in; orphans: 2; font-weight: normal; font-style: normal; font-variant: normal; border: none; padding: 0in; line-height: 145%; widows: 2; background: #f6f8fa"><font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt"><span style="background: #f6f8fa"><font color="#cf222e">export</font> ANTHROPIC_API_KEY=<font color="#0a3069">'your-api-key-here'</font></span></font></font></font></pre><p style="widows: 2; margin-bottom: 0in; orphans: 2">
+<span style="font-variant: normal"><font color="#1f2328"><font face="Mona Sans VF, apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt"><span style="font-style: normal"><span style="font-weight: normal">Or
+create a&nbsp;</span></span></font></font></font></span><code class="western"><span style="font-variant: normal"><font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt"><span style="font-style: normal"><span style="font-weight: normal">.env</span></span></font></font></font></span></code><font color="#1f2328">&nbsp;</font><span style="font-variant: normal"><font color="#1f2328"><font face="Mona Sans VF, apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt"><span style="font-style: normal"><span style="font-weight: normal">file:</span></span></font></font></font></span></p>
+<pre class="western" style="border: none; padding: 0in; line-height: 145%; widows: 2; orphans: 2; background: #f6f8fa"><code class="western"><span style="font-variant: normal"><font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt"><span style="font-style: normal"><span style="font-weight: normal"><span style="background: #f6f8fa">ANTHROPIC_API_KEY=your-api-key-here</span></span></span></font></font></font></span></code>
+
+<code class="western"><span style="font-variant: normal"><font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt"><span style="font-style: normal"><span style="font-weight: normal"><span style="background: #f6f8fa">How do I get an  </span></span></span></font></font></font></span></code><code class="western"><span style="font-variant: normal"><font color="#1f2328"><font face="Mona Sans VF, apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt"><span style="font-style: normal"><span style="font-weight: normal"><span style="background: #f6f8fa">Anthropic API key?</span></span></span></font></font></font></span></code></pre><p style="font-weight: normal; font-style: normal; font-variant: normal">
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">How
+do I have VS Code determine the executable to run?</font></font></font></p>
+<p><br/>
+PS C:\source\locker-cad\core\lcad-core-chili3d&gt; 
+</p>
+<p><a href="https://github.com/dorisoy/chili3d"><span style="font-variant: normal"><font color="#60a5fa"><span style="text-decoration: none"><font face="IBM Plex Sans, sans-serif"><font size="2" style="font-size: 9pt"><span style="font-style: normal"><span style="font-weight: normal">dorisoy/chili3d</span></span></font></font></span></font></span></a>
+</p>
+<pre class="western" style="font-weight: normal; font-style: normal; font-variant: normal"><font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">npm run build</font></font></font>
+
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">PS C:\source\locker-cad\core\lcad-core-chili3d&gt; npm run build</font></font></font>
+
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">&gt; chili3d@0.6.0 build</font></font></font>
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">&gt; npx rspack build</font></font></font>
+
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">npm error could not determine executable to run</font></font></font>
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">npm error A complete log of this run can be found in: C:\Users\User\AppData\Local\npm-cache\_logs\2026-04-30T11_25_12_520Z-debug-0.log</font></font></font>
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">PS C:\source\locker-cad\core\lcad-core-chili3d&gt; </font></font></font>
+
+0 verbose cli D:\Program Files\nodejs\node.exe D:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.8.0
+2 info using node@v24.13.1
+3 silly config load:file:D:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\source\locker-cad\core\lcad-core-chili3d\.npmrc
+5 silly config load:file:C:\Users\User\.npmrc
+6 silly config load:file:C:\Users\User\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm exec rspack build
+8 verbose argv &quot;exec&quot; &quot;--&quot; &quot;rspack&quot; &quot;build&quot;
+9 verbose logfile logs-max:10 dir:C:\Users\User\AppData\Local\npm-cache\_logs\2026-04-30T11_25_12_520Z-
+10 verbose logfile C:\Users\User\AppData\Local\npm-cache\_logs\2026-04-30T11_25_12_520Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+14 http fetch GET 200 https://registry.npmjs.org/rspack 425ms (cache miss)
+15 verbose stack Error: could not determine executable to run
+15 verbose stack     at getBinFromManifest (D:\Program Files\nodejs\node_modules\npm\node_modules\libnpmexec\lib\get-bin-from-manifest.js:17:23)
+15 verbose stack     at exec (D:\Program Files\nodejs\node_modules\npm\node_modules\libnpmexec\lib\index.js:206:15)
+15 verbose stack     at async Npm.exec (D:\Program Files\nodejs\node_modules\npm\lib\npm.js:208:9)
+15 verbose stack     at async module.exports (D:\Program Files\nodejs\node_modules\npm\lib\cli\entry.js:67:5)
+16 verbose pkgid rspack@0.1.1
+17 error could not determine executable to run
+18 verbose cwd C:\source\locker-cad\core\lcad-core-chili3d
+19 verbose os Windows_NT 10.0.26200
+20 verbose node v24.13.1
+21 verbose npm  v11.8.0
+22 verbose exit 1
+23 verbose code 1
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">24 error A complete log of this run can be found in: C:\Users\User\AppData\Local\npm-cache\_logs\2026-04-30T11_25_12_520Z-debug-0.log</font></font></font>
+
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">and that is what I have just put here now.</font></font></font>
+
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">PS C:\source\locker-cad\core\lcad-core-chili3d&gt; npm run dev</font></font></font>
+
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">&gt; chili3d@0.6.0 dev</font></font></font>
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">&gt; npx rspack dev</font></font></font>
+
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">npm error could not determine executable to run</font></font></font>
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">npm error A complete log of this run can be found in: C:\Users\User\AppData\Local\npm-cache\_logs\2026-04-30T11_28_22_137Z-debug-0.log</font></font></font>
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">PS C:\source\locker-cad\core\lcad-core-chili3d&gt; </font></font></font>
+
+<font color="#1f2328"><font face="Monaspace Neon, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace"><font size="2" style="font-size: 9pt">How do I have VS Code determine the executable to run?</font></font></font></pre><p style="border-top: none; border-bottom: 1.10pt double #000000; border-left: none; border-right: none; padding-top: 0in; padding-bottom: 0.03in; padding-left: 0in; padding-right: 0in">
+<br/>
+<br/>
+
+</p>
+<p style="border-top: none; border-bottom: 1.10pt double #000000; border-left: none; border-right: none; padding-top: 0in; padding-bottom: 0.03in; padding-left: 0in; padding-right: 0in">
+<br/>
+<br/>
+
+</p>
+<p>C:\source\locker-cad\core\lcad-editor-procad</p>
+<p><a href="https://github.com/saintyag/ProCAD-Web"><span style="font-variant: normal"><font color="#60a5fa"><span style="text-decoration: none"><font face="IBM Plex Sans, sans-serif"><font size="2" style="font-size: 9pt"><span style="font-style: normal"><span style="font-weight: normal">saintyag/ProCAD-Web</span></span></font></font></span></font></span></a>
+</p>
+<p>The project seems to only consist of an html file,
+<a href="../../locker-cad/core/lcad-editor-procad/ProCAD%20Web.html">file:///C:/source/locker-cad/core/lcad-editor-procad/ProCAD%20Web.html</a></p>
+<p>the pop up help captions for the menu button looks like it is in
+portuguese or another language.</p>
+<p>“Selecciona una cara o perfil”</p>
+<p>“Primero Selecciona una cara/plano (azul)”</p>
+<p style="border-top: none; border-bottom: 1.10pt double #000000; border-left: none; border-right: none; padding-top: 0in; padding-bottom: 0.03in; padding-left: 0in; padding-right: 0in">
+<br/>
+<br/>
+
+</p>
+<p>C:\source\locker-cad\core\lcad-furniture-vizo</p>
+<p style="margin-bottom: 0in"><font color="#79c0ff"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><b><span style="background: #121314">#
+3DvizoCAD</span></b></font></font></font></p>
+<p style="font-weight: normal; margin-bottom: 0in; line-height: 0.2in; background: transparent">
+<font color="#bbbebf"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: #121314">Engineering<font color="#000000"><span style="background: transparent">
+software for 3D design configuration and development of execution
+documentation in the furniture industry using Three.js</span></font></span></font></font></font></p>
+<p style="margin-bottom: 0in; line-height: 0.2in; background: transparent">
+<br/>
+
+</p>
+<p style="font-weight: normal; margin-bottom: 0in; line-height: 0.2in; background: transparent">
+<font color="#000000"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: transparent">There
+was nothing there apart from the readme file.</span></font></font></font></p>
+<p style="font-weight: normal; margin-bottom: 0in; line-height: 0.2in; background: transparent">
+<font color="#000000"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: transparent">So
+I ran this again:</span></font></font></font></p>
+<p style="margin-bottom: 0in; line-height: 0.2in; background: transparent">
+<br/>
+
+</p>
+<pre class="western" style="margin-bottom: 0.2in; font-weight: normal; font-style: normal; font-variant: normal; line-height: 0.2in; background: transparent"><font color="#000000"><font face="IBM Plex Mono, monospace"><font size="2" style="font-size: 10pt"><span style="background: transparent">git clone https://github.com/ciprianiacob/3DvizoCAD.git core/lcad-furniture-vizo</span></font></font></font></pre><p style="margin-bottom: 0in; line-height: 0.2in; background: transparent">
+<br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 0.2in; background: transparent">
+<a href="https://github.com/ciprianiacob/3DvizoCAD"><font color="#000000"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="font-weight: normal"><span style="background: transparent">https://github.com/ciprianiacob/3DvizoCAD</span></span></font></font></font></a></p>
+<p style="font-weight: normal; margin-bottom: 0in; line-height: 0.2in; background: transparent">
+<font color="#000000"><font face="Consolas, Courier New, monospace"><font size="2" style="font-size: 10pt"><span style="background: transparent">only
+has a readme file WTF is up with that?</span></font></font></font></p>
+<p style="margin-bottom: 0in; border-top: none; border-bottom: 1.10pt double #000000; border-left: none; border-right: none; padding-top: 0in; padding-bottom: 0.03in; padding-left: 0in; padding-right: 0in; line-height: 0.2in; background: transparent">
+<br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 0.2in; background: transparent">
+<br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 0.2in; background: transparent">
+<br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 0.2in; background: transparent">
+<br/>
+
+</p>
+<p style="margin-bottom: 0in; line-height: 0.2in; background: transparent">
+<br/>
+
+</p>
+<p style="line-height: 0.2in; background: transparent"><br/>
+<br/>
+
+</p>
+</body>
+</html>

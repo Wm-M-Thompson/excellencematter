@@ -1,0 +1,93 @@
+﻿
+ciprianiacob/3DvizoCAD — literally furniture industry 3D design configuration with Three.js. Domain match is perfect for lockers, though it only has 1 commit so inspect it carefully.
+saintyag/ProCAD-Web — Fusion 360-inspired sketch → extrude → fillet/chamfer workflow with BVH acceleration. One of the most promising editors in the list.
+dorisoy/chili3d — Full browser CAD in TypeScript with OpenCascade WASM + Three.js. One of the most complete open-source browser CAD projects found.
+NovaVector-Holdings/nova-designer-3d — Parametric enclosure design with dual AI + toolbar mode. Electronics enclosures and lockers share the same rectangular-box geometry class.
+NovaVector-Holdings/nova-designer-3d: While already in your top 5, it is the best reference for rectangular-box geometry, which is the exact "class" of object a locker belongs to.
+(Specialty: Metal, Boxes, & Manufacturing)
+j0nas/parametric-3d-editor — Uses Replicad (the clean OCCT WASM wrapper) + Three.js. Worth investigating Replicad as your geometry engine.
+bernhard-42/three-cad-viewer — https://github.com/bernhard-42/three-cad-viewer (CAD Viewers & Editors)
+Description: Three.js-based CAD viewer for tessellated/low-level three.js objects; supports visualization of CAD-like data with utilities like logging.
+Assessment: Good starting point for a clean locker viewer component. Handles basic 3D object display well but lacks built-in editing/sketching tools. Useful for rendering assembled lockers; extend with your own parametric logic. Moderately maintained; solid for web deployment but may need extras for interactive design (e.g., dragging panels). 
+twpride/three.cad — https://github.com/twpride/three.cad (CAD Viewers & Editors)
+Description: Full web-based CAD app with three.js + React + WebAssembly; features parametric sketching with geometric constraints (coincidence, distance, angle, tangency) and CSG for 3D modeling.
+Assessment: Highly relevant—parametric sketching and constraints are perfect for precise locker dimensions/design rules. CSG enables booleans (e.g., cutouts for vents/handles). React integration helps with UI for online tool. Promising for locker customization (drag to adjust sizes while enforcing constraints). Check activity level; WebAssembly may add performance for complex models. Strong candidate to adapt or draw inspiration from. 
+DevYon4s/cad3js — https://github.com/DevYon4s/cad3js (CAD Viewers & Editors)
+Description: Modern React + Vite + three.js CAD editor with sketching, extrusion, selection, and transformation tools.
+Assessment: Practical for a web locker designer—includes extrusion (good for panels/frames) and basic editing. Easy to prototype interactive features like adding locker compartments. Lightweight and modern stack; good demo potential. May require extension for advanced constraints or assembly logic specific to lockers. Worth cloning for quick starts or component reuse. 
+gkjohnson/three-bvh-csg (mentioned in awesome lists) — https://github.com/gkjohnson/three-bvh-csg
+Description: Fast, memory-efficient CSG (union, subtract, intersect) built on three-mesh-bvh for dynamic boolean operations on three.js meshes.
+Assessment: Excellent for locker designs—perform booleans like subtracting doors/handles or unioning modular sections efficiently. Better performance than older CSG libs for interactive web use. Highly recommended addition to any three.js CAD; pairs well with viewers/editors above. Active and optimized. 
+pmndrs/react-three-csg — https://github.com/pmndrs/react-three-csg
+Description: React abstraction for CSG using three-bvh-csg; works with @react -three/fiber.
+Assessment: Great if your locker tool uses React (common for web UIs). Simplifies boolean workflows in a component-based app. Solid for declarative modeling of locker parts. Check compatibility with your stack. 
+three-bvh-csg (fast, modern, best choice)
+https://github.com/gkjohnson/three-bvh-csg
+Modern / Recommended
+three-csg-ts (TypeScript version of classic CSG)
+https://github.com/samalexander/three-csg-ts
+🔁 TypeScript / Classic-style rewrites
+three-csg (Intracto fork of three-csg-ts)
+https://github.com/Intracto/three-csg
+THREE-CSGMesh (classic implementation)
+https://github.com/manthrax/THREE-CSGMesh
+🧱 Older / legacy (still useful for reference)
+react-three-csg
+https://github.com/pmndrs/react-three-csg
+🧠 Bonus (React wrapper around BVH version)
+cadboxx-eu/WebCADApp: Excellent for "component-based" CAD. It handles bill of materials (BOM) and part relationships—essential for knowing how many panels and bolts are in a locker assembly.
+(Specialty: Metal, Boxes, & Manufacturing)
+=============================================================================================================
+Repos That Work Well Together
+These pairings / groups form coherent sub-systems. Pick one combination per layer of your stack.
+ Combo A — The Full Production Stack lcad-core-chili3d + lcad-editor-procad + 1fanya/cad-automation-suite + arbaev/dxf-kit + mlightcad/three-viewcube Geometry engine (chili3d) → Editor UI (ProCAD-Web) → Output pipeline (YAML → STL/DXF) → File import (DXF) → Orientation UI (viewcube). This is a complete end-to-end locker design tool.
+ Combo B — Lighter Weight React Stack lcad-parametric-replicad + beimnetzewdu/ReactCAD + DevYon4s/cad3js + mlightcad/three-viewcube Replicad as the WASM geometry engine → ReactCAD editor shell → cad3js for JSON save/load model → viewcube. Uses Replicad instead of raw OCCT — less complex, easier to get running fast.
+ Combo C — Data Model + UI + Output velociwabbit/JSONCad + cadboxx-eu/WebCADApp + 1fanya/cad-automation-suite JSONCad philosophy for your data model (store panels as JSON) → WebCADApp for assembly + BOM UI → automation suite to output STL/DXF/SVG for fabrication. Very clean separation of concerns.
+ Combo D — AI-Assisted Configurator lcad-ai-nova + IMINABO1/Janus_new + lcad-parametric-replicad Nova's dual AI+toolbar UX pattern → Janus's LLM → geometry pipeline → Replicad as the actual geometry engine. The user describes a locker in plain language; the system builds it parametrically.
+ Combo E — File Import Pipeline arbaev/dxf-kit + thingraph/dwg-viewer-example + ubemacapuno/svelte-step + pesutoaka/three-cad-orientation-fix DXF parsing → DWG viewing → STEP viewing → orientation fix on load. Together these three repos cover every common CAD file format a customer or fabricator might send you.
+=============================================================================================================
+=============================================================================================================
+Additional Good Repos
+BONUS #1
+twpride/three.cad React + Three.js + WebAssembly with parametric sketching and geometric constraints (the hardest part of any CAD system). CSG boolean operations included. Why: constraints (parallel, perpendicular, coincident, dimension) are what turn a 3D toy into a real design tool. Study this for constraint architecture even if you don't build on it.
+BONUS #2
+beimnetzewdu/ReactCAD---3D-CAD-Editor Browser-based 3D CAD editor — React + plain Three.js, 2D sketching, extrusion, shape manipulation, full scene management. Why: one of the most feature-complete React + Three.js (no R3F) CAD editors in the list. Useful if chili3d feels too heavy — this is lighter and more hackable.
+BONUS #3
+DevYon4s/cad3js React + Vite + Three.js CAD editor. 2D sketching (rectangles, circles), grid snapping, real-time extrusion, face/edge selection, transform gizmos, undo/redo, grouping, JSON import/export. Has a live demo. Why: the JSON import/export is critical — your locker configurations need to be saved, loaded, and sent to fabricators. Study this data model.
+BONUS #4
+eLamine-dev/CadLab3D 3ds Max-style multi-viewport CAD editor — React Three Fiber + Zustand. Multi-viewport (top/front/side/perspective), polyline, arc, box tools, extrude, boolean, reactive TransformControls. Why: the multi-viewport layout is the most professional interaction pattern for locker design. This is the cleanest open-source implementation of it using R3F + Zustand state architecture.
+BONUS #5
+1fanya/cad-automation-suite Parametric CAD automation suite — generates STL, DXF, and SVG from YAML config files. Flask + Three.js. Why: this is your output pipeline. Once a user finishes designing their locker in the browser, you need to generate STL/DXF files for the fabricator. This shows exactly how to do that from a parametric config.
+BONUS #6
+legriamax/Advanced-Bim3dEditor Advanced fork of mengyusong/Bim3dEditor — React + Three.js + Material UI. More features added on top of the already-solid Bim3dEditor base. Why: if you decide to use Bim3dEditor as your UI shell, use THIS fork rather than the original — it saves rework. Check what was added before starting from the original.
+BONUS #7
+parthchau-hexacoder/sketchers Focused browser-based 2D sketching and editing app — Three.js + TypeScript. Draw, edit, select, snap. Why: a clean, isolated 2D sketcher implementation. If you build your own editor rather than adopting an existing one, use this as your 2D drawing layer reference — then add extrusion on top.
+BONUS #8
+cadboxx-eu/WebCADApp React + Three.js with assembly logic, component-based CAD approach, BOM (bill of materials) support, units and precise positioning. Why: lockers are assemblies — body, doors, shelves, hardware. This repo's assembly + BOM architecture maps directly to the data model you need for a real product.
+BONUS #9
+IlanAzoulay/ThreeJsExtrudeDrawer Minimal focused demo: user draws a shape on a flat plane, then extrudes it to a specified height. Why: this is the core locker panel creation operation in ~50 clean lines. Read this before you read anything else — it's the clearest possible starting point for understanding the workflow.
+BONUS #10
+zarifabuzarov/ShredderCAD Web CAD software based on OpenCascade + Three.js — more ambitious than most, real geometry kernel underneath. Why: a useful secondary comparison to chili3d. Both use OCCT + Three.js but with different architecture decisions. Comparing the two teaches you what choices matter in browser OCCT integration.
+BONUS #11
+IMINABO1/Janus_new AI-powered 3D CAD engine — natural language → geometry via React + Three.js + Google Gemini API (maintained fork). Why: once your parametric editor works, a natural-language configuration assistant ("make a 5-bay locker unit, 1800mm tall, with a top shelf") is a compelling product differentiator. Study the Gemini → geometry pipeline here.
+=============================================================================================================
+=============================================================================================================
+Specialty: File Formats (DXF/STEP) Gunnanjie DXF Parser: (Referenced in your list as the DXF file parser). Essential for importing existing industrial drawings into your Three.js scene.
+ STEP/STP CAD file viewer (via occt-import-js): Critical for viewing high-fidelity manufacturing files (STEP) directly in the browser using React and Three.js.
+=============================================================================================================
+Technical "How-to-Fix" & Logic Refinement mlt131220/Astral3D: A "production-level" framework. It provides the architectural "bones" for a web 3D editor. You should use this to see how to organize a professional-grade project.
+ WyNo22/IA2CAD: A "how-to" for the AI-to-FastAPI-to-Three.js pipeline. If you want users to say "make me a 3-tier locker," this repo shows you how to design that API.
+ socialtables/openfpc: Though an archive, it contains logic for JSON-based CAD. Since you want a web-based tool, storing locker designs as lightweight JSON (rather than heavy CAD files) is the right path.
+ Juanjp1991/lego-builder-python: Keep this for the modular assembly logic. The way it handles "snapping" bricks together is a perfect metaphor for how locker panels should snap to a frame.
+ amansquad/cad-editor: A React + Three.js reference that specifically deals with enhanced edge rendering. This is a "how-to-fix" for making metal panels look crisp and realistic in the browser.
+ ProCAD-Web (Sketch to Extrude): Essential for the "how-to" of creating a panel. The sketch → extrude workflow is the core operation for locker panel creation.
+ pesutoaka/three-cad-orientation-fix How to fix a CAD model's wrong axis orientation in Three.js. You will hit this when importing STEP/STL files. Bookmark it. mlightcad/large-coordinate-rendering Precision-safe rendering for large-coordinate CAD drawings. Solves floating-point drift — critical when your locker panels are specified in real-world millimetre coordinates. mlightcad/three-viewcube Drop-in view cube (top/front/side/perspective) for Three.js. A non-negotiable UI piece for any CAD app. Use this rather than building your own. mlightcad/mtext-renderer AutoCAD MText renderer for Three.js. Needed the moment you add dimension labels or part annotations to your locker view.
+=============================================================================================================
+ Uncommon Format Specialists 
+ thingraph/dwg-viewer-example DWG/DXF/PDF viewer via x-viewer SDK + Three.js + Vue3. Your customers may send you DWG files of their rooms. Keep this as your DWG import reference. 
+ arbaev/dxf-kit Framework-agnostic DXF parser + renderer + Vue3 viewer. DXF is the most common format for sending locker drawings to fabricators. Essential pipeline piece. 
+ thatsillegal/DXF_Parser Minimal JS DXF parser that turns a .DXF file into structured objects (lines, arcs, layers). Lightweight alternative to arbaev/dxf-kit for reading only. 
+ ubemacapuno/svelte-step Clean STEP viewer using occt-import-js. STEP is the standard format for exchanging with fabricators and suppliers. Study the occt-import-js integration pattern here. 
+ DinoMesina/FreeCAD_exportThreejs FreeCAD → Three.js export script. Useful if any part of your design pipeline uses FreeCAD for the geometry, then pipes to your web viewer. 
+ swas02/Bhugrahan DXF 2D scene viewer and annotator. Good reference if you need to let customers import an existing room floor plan (as DXF) and then place lockers inside it. 
+=============================================================================================================

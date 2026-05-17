@@ -1,0 +1,3371 @@
+DELAY : 991
+Mouse : 1455 : 152 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 1455 : 152 : LeftButtonUp : 0 : 0 : 0
+DELAY : 993
+Keyboard : ControlLeft : KeyDown
+Keyboard : Home : KeyDown
+DELAY : 95
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 78
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 96
+Keyboard : End : KeyDown
+DELAY : 99
+Keyboard : End : KeyUp
+DELAY : 79
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 16
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 78
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 46
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 87
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 87
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 995
+Keyboard : V : KeyDown
+DELAY : 95
+Keyboard : V : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 71
+Keyboard : Enter : KeyUp
+DELAY : 991
+Keyboard : End : KeyDown
+DELAY : 71
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 95
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 95
+Keyboard : ShiftLeft : KeyUp
+Keyboard : KeyCode222 : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 95
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 78
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 87
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 79
+Keyboard : Left : KeyUp
+DELAY : 96
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 31
+Keyboard : ControlLeft : KeyUp
+DELAY : 994
+Mouse : 2333 : 78 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2333 : 78 : LeftButtonUp : 0 : 0 : 0
+DELAY : 999
+Mouse : 2559 : 111 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2559 : 111 : LeftButtonUp : 0 : 0 : 0
+DELAY : 995
+Keyboard : End : KeyDown
+DELAY : 71
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 96
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 72
+Keyboard : Delete : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 55
+Keyboard : Enter : KeyUp
+DELAY : 999
+Mouse : 1447 : 149 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 1447 : 148 : LeftButtonUp : 0 : 0 : 0
+DELAY : 990
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 55
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 71
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 79
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 88
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 31
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 87
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 87
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 80
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 86
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 71
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 79
+Keyboard : Enter : KeyUp
+DELAY : 993
+Keyboard : End : KeyDown
+DELAY : 79
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 88
+Keyboard : Home : KeyDown
+DELAY : 87
+Keyboard : Home : KeyUp
+DELAY : 56
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 64
+Keyboard : ShiftLeft : KeyUp
+DELAY : 15
+Keyboard : KeyCode222 : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 80
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 89
+Keyboard : Enter : KeyDown
+DELAY : 87
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 80
+Keyboard : Left : KeyUp
+DELAY : 55
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 39
+Keyboard : ControlLeft : KeyUp
+DELAY : 998
+Mouse : 2466 : 74 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2466 : 74 : LeftButtonUp : 0 : 0 : 0
+DELAY : 995
+Mouse : 2548 : 118 : LeftButtonDown : 0 : 0 : 0
+DELAY : 96
+Mouse : 2548 : 118 : LeftButtonUp : 0 : 0 : 0
+DELAY : 997
+Keyboard : End : KeyDown
+DELAY : 95
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 81
+Keyboard : Home : KeyDown
+DELAY : 95
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 80
+Keyboard : Delete : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 71
+Keyboard : Enter : KeyUp
+DELAY : 992
+Mouse : 1442 : 146 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 1442 : 146 : LeftButtonUp : 0 : 0 : 0
+DELAY : 990
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 72
+Keyboard : Home : KeyUp
+DELAY : 95
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 79
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 88
+Keyboard : End : KeyUp
+DELAY : 71
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 55
+Keyboard : ControlLeft : KeyUp
+DELAY : 81
+Keyboard : End : KeyDown
+DELAY : 71
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 71
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 71
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 71
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 63
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 72
+Keyboard : Enter : KeyUp
+DELAY : 994
+Keyboard : End : KeyDown
+DELAY : 64
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 88
+Keyboard : Home : KeyUp
+DELAY : 95
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 71
+Keyboard : ShiftLeft : KeyUp
+Keyboard : KeyCode222 : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 86
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 55
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 63
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 54
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 55
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 87
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 71
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 95
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 95
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 72
+Keyboard : Left : KeyUp
+DELAY : 14
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 64
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 81
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : R : KeyDown
+DELAY : 54
+Keyboard : R : KeyUp
+DELAY : 997
+Keyboard : Tab : KeyDown
+DELAY : 80
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 55
+Keyboard : Delete : KeyUp
+DELAY : 990
+Mouse : 2362 : 69 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2362 : 69 : LeftButtonUp : 0 : 0 : 0
+DELAY : 99
+Mouse : 2554 : 118 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2554 : 116 : LeftButtonUp : 0 : 0 : 0
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 99
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 48
+Keyboard : Home : KeyDown
+DELAY : 97
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 39
+Keyboard : ControlLeft : KeyUp
+DELAY : 991
+Mouse : 2273 : 229 : LeftButtonDown : 0 : 0 : 0
+DELAY : 85
+Mouse : 2273 : 229 : LeftButtonUp : 0 : 0 : 0
+DELAY : 990
+Mouse : 2239 : 288 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2239 : 288 : LeftButtonUp : 0 : 0 : 0
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 94
+Keyboard : Home : KeyUp
+DELAY : 98
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 80
+Keyboard : End : KeyUp
+DELAY : 31
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 72
+Keyboard : Delete : KeyUp
+DELAY : 81
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 40
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 56
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 63
+Keyboard : Enter : KeyUp
+DELAY : 991
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 998
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 80
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 995
+Keyboard : Down : KeyDown
+DELAY : 39
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 71
+Keyboard : Down : KeyUp
+DELAY : 993
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 80
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 31
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 86
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 87
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 88
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 96
+Keyboard : V : KeyUp
+DELAY : 79
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 71
+Keyboard : Enter : KeyUp
+DELAY : 995
+Keyboard : End : KeyDown
+DELAY : 79
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 80
+Keyboard : Home : KeyUp
+DELAY : 87
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 79
+Keyboard : ShiftLeft : KeyUp
+Keyboard : KeyCode222 : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 80
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 80
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 95
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 96
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 79
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 80
+Keyboard : Left : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 79
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 71
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : R : KeyDown
+DELAY : 70
+Keyboard : R : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 80
+Keyboard : Delete : KeyUp
+DELAY : 998
+Mouse : 2453 : 78 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2453 : 77 : LeftButtonUp : 0 : 0 : 0
+DELAY : 990
+Mouse : 2541 : 108 : LeftButtonDown : 0 : 0 : 0
+DELAY : 95
+Mouse : 2541 : 108 : LeftButtonUp : 0 : 0 : 0
+DELAY : 997
+Keyboard : End : KeyDown
+DELAY : 88
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 80
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 48
+Keyboard : ControlLeft : KeyUp
+DELAY : 996
+Mouse : 2261 : 222 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2261 : 222 : LeftButtonUp : 0 : 0 : 0
+DELAY : 990
+Mouse : 2224 : 295 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2224 : 295 : LeftButtonUp : 0 : 0 : 0
+DELAY : 991
+Keyboard : Home : KeyDown
+DELAY : 79
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 80
+Keyboard : End : KeyDown
+DELAY : 79
+Keyboard : End : KeyUp
+DELAY : 48
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 71
+Keyboard : Delete : KeyUp
+DELAY : 81
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 95
+Keyboard : V : KeyUp
+DELAY : 64
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 72
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 96
+Keyboard : Tab : KeyUp
+DELAY : 79
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 71
+Keyboard : Enter : KeyUp
+DELAY : 992
+Mouse : 1442 : 145 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 1442 : 145 : LeftButtonUp : 0 : 0 : 0
+DELAY : 996
+Keyboard : ControlLeft : KeyDown
+DELAY : 24
+Keyboard : Home : KeyDown
+DELAY : 80
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 87
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 80
+Keyboard : End : KeyUp
+DELAY : 79
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 23
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 79
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 79
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 85
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 79
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 95
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 63
+Keyboard : Enter : KeyUp
+DELAY : 999
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 87
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 96
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 95
+Keyboard : Delete : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 80
+Keyboard : ShiftLeft : KeyUp
+Keyboard : KeyCode222 : KeyUp
+DELAY : 993
+Keyboard : Escape : KeyDown
+DELAY : 95
+Keyboard : Escape : KeyUp
+DELAY : 991
+Mouse : 1467 : 145 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 1467 : 145 : LeftButtonUp : 0 : 0 : 0
+DELAY : 991
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 64
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 79
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 88
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 47
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 71
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 79
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 94
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 79
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 71
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 78
+Keyboard : Enter : KeyUp
+DELAY : 999
+Keyboard : End : KeyDown
+DELAY : 71
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 96
+Keyboard : Home : KeyDown
+DELAY : 96
+Keyboard : Home : KeyUp
+DELAY : 71
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 88
+Keyboard : KeyCode222 : KeyUp
+DELAY : 15
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 78
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 79
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 95
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 72
+Keyboard : Left : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 55
+Keyboard : ControlLeft : KeyUp
+DELAY : 991
+Mouse : 2352 : 75 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2352 : 75 : LeftButtonUp : 0 : 0 : 0
+DELAY : 99
+Mouse : 2620 : 124 : LeftButtonDown : 0 : 0 : 0
+DELAY : 90
+Mouse : 2620 : 124 : LeftButtonUp : 0 : 0 : 0
+DELAY : 997
+Keyboard : End : KeyDown
+DELAY : 99
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 65
+Keyboard : Home : KeyDown
+DELAY : 88
+Keyboard : Home : KeyUp
+DELAY : 87
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 87
+Keyboard : Delete : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 94
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 63
+Keyboard : Enter : KeyUp
+DELAY : 990
+Mouse : 1460 : 146 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 1460 : 146 : LeftButtonUp : 0 : 0 : 0
+DELAY : 991
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 88
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 87
+Keyboard : Down : KeyUp
+DELAY : 97
+Keyboard : Down : KeyDown
+DELAY : 87
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 88
+Keyboard : End : KeyDown
+DELAY : 88
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 55
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 87
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 71
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 84
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 79
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 55
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 71
+Keyboard : Enter : KeyUp
+DELAY : 993
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 72
+Keyboard : KeyCode222 : KeyUp
+DELAY : 23
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 55
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 78
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 78
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 79
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 87
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 87
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 96
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 64
+Keyboard : Left : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 49
+Keyboard : ControlLeft : KeyUp
+DELAY : 995
+Mouse : 2462 : 72 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2461 : 72 : LeftButtonUp : 0 : 0 : 0
+DELAY : 995
+Mouse : 2567 : 109 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2567 : 109 : LeftButtonUp : 0 : 0 : 0
+DELAY : 992
+Keyboard : End : KeyDown
+DELAY : 87
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 72
+Keyboard : Home : KeyDown
+DELAY : 96
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 90
+Keyboard : Delete : KeyDown
+DELAY : 87
+Keyboard : Delete : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 47
+Keyboard : Enter : KeyUp
+DELAY : 992
+Mouse : 1640 : 147 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 1640 : 147 : LeftButtonUp : 0 : 0 : 0
+DELAY : 997
+Keyboard : Down : KeyDown
+DELAY : 71
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 87
+Keyboard : Down : KeyUp
+DELAY : 991
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 80
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 96
+Keyboard : End : KeyDown
+DELAY : 88
+Keyboard : End : KeyUp
+DELAY : 87
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 63
+Keyboard : ControlLeft : KeyUp
+DELAY : 97
+Keyboard : End : KeyDown
+DELAY : 63
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 63
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 87
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 87
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 80
+Keyboard : V : KeyUp
+DELAY : 79
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 71
+Keyboard : Enter : KeyUp
+DELAY : 995
+Keyboard : End : KeyDown
+DELAY : 63
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 72
+Keyboard : Home : KeyDown
+DELAY : 80
+Keyboard : Home : KeyUp
+DELAY : 71
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 72
+Keyboard : KeyCode222 : KeyUp
+DELAY : 15
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 95
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 64
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 63
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 71
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 63
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 39
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 79
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 72
+Keyboard : Left : KeyUp
+DELAY : 63
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 39
+Keyboard : ControlLeft : KeyUp
+DELAY : 999
+Mouse : 2576 : 78 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2576 : 78 : LeftButtonUp : 0 : 0 : 0
+DELAY : 99
+Mouse : 2579 : 117 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2579 : 117 : LeftButtonUp : 0 : 0 : 0
+DELAY : 990
+Keyboard : End : KeyDown
+DELAY : 95
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 88
+Keyboard : Home : KeyDown
+DELAY : 88
+Keyboard : Home : KeyUp
+DELAY : 86
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 79
+Keyboard : Delete : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 63
+Keyboard : Enter : KeyUp
+DELAY : 998
+Mouse : 1658 : 144 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 1658 : 144 : LeftButtonUp : 0 : 0 : 0
+DELAY : 993
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 79
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 87
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 80
+Keyboard : End : KeyUp
+DELAY : 79
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 47
+Keyboard : ControlLeft : KeyUp
+DELAY : 73
+Keyboard : End : KeyDown
+DELAY : 79
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 87
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 99
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 63
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 64
+Keyboard : V : KeyUp
+DELAY : 79
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 71
+Keyboard : Enter : KeyUp
+DELAY : 997
+Keyboard : End : KeyDown
+DELAY : 71
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 99
+Keyboard : Home : KeyUp
+DELAY : 64
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 88
+Keyboard : KeyCode222 : KeyUp
+DELAY : 31
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 72
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 95
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 87
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 79
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 56
+Keyboard : Left : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 39
+Keyboard : ControlLeft : KeyUp
+DELAY : 990
+Mouse : 1665 : 148 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 1665 : 148 : LeftButtonUp : 0 : 0 : 0
+DELAY : 992
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 72
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 993
+Mouse : 2673 : 72 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2673 : 72 : LeftButtonUp : 0 : 0 : 0
+DELAY : 99
+Mouse : 2691 : 115 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2691 : 115 : LeftButtonUp : 0 : 0 : 0
+DELAY : 993
+Keyboard : End : KeyDown
+DELAY : 95
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 88
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 79
+Keyboard : Delete : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 990
+Keyboard : V : KeyDown
+DELAY : 80
+Keyboard : V : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 70
+Keyboard : Enter : KeyUp
+DELAY : 9914
+Mouse : 1647 : 151 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 1647 : 151 : LeftButtonUp : 0 : 0 : 0
+DELAY : 995
+Keyboard : Down : KeyDown
+DELAY : 71
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 79
+Keyboard : Down : KeyUp
+DELAY : 991
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 72
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 88
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 88
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 40
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 80
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 79
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 95
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 96
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 56
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 71
+Keyboard : Enter : KeyUp
+DELAY : 995
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 79
+Keyboard : KeyCode222 : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 63
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 63
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 65
+Keyboard : Enter : KeyDown
+DELAY : 99
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 992
+Keyboard : AltLeft : KeyDown
+DELAY : 87
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 87
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 78
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : KeyCode219 : KeyDown
+DELAY : 79
+Keyboard : KeyCode219 : KeyUp
+DELAY : 99
+Keyboard : KeyCode221 : KeyDown
+DELAY : 63
+Keyboard : KeyCode221 : KeyUp
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 87
+Keyboard : Left : KeyUp
+DELAY : 99
+Keyboard : KeyCode191 : KeyDown
+DELAY : 71
+Keyboard : KeyCode191 : KeyUp
+DELAY : 49
+Keyboard : A : KeyDown
+DELAY : 95
+Keyboard : A : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 55
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 90
+Keyboard : Enter : KeyDown
+DELAY : 95
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 997
+Keyboard : Delete : KeyDown
+DELAY : 72
+Keyboard : Delete : KeyUp
+DELAY : 993
+Keyboard : AltLeft : KeyDown
+DELAY : 71
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 87
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 70
+Keyboard : F : KeyUp
+DELAY : 996
+Keyboard : KeyCode219 : KeyDown
+DELAY : 79
+Keyboard : KeyCode219 : KeyUp
+DELAY : 49
+Keyboard : A : KeyDown
+DELAY : 99
+Keyboard : A : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 70
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 62
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 63
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 72
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Up : KeyDown
+DELAY : 63
+Keyboard : Up : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 63
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 63
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 99
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 57
+Keyboard : Down : KeyDown
+DELAY : 79
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 991
+Keyboard : Delete : KeyDown
+DELAY : 70
+Keyboard : Delete : KeyUp
+DELAY : 999
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 65
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 96
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 79
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 99
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 38
+Keyboard : ControlLeft : KeyUp
+DELAY : 98
+Keyboard : End : KeyDown
+DELAY : 87
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 79
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 95
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 96
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 14
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 71
+Keyboard : Enter : KeyUp
+DELAY : 991
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 79
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 88
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 80
+Keyboard : KeyCode222 : KeyUp
+DELAY : 23
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 89
+Keyboard : Enter : KeyDown
+DELAY : 99
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 95
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 71
+Keyboard : Left : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 23
+Keyboard : ControlLeft : KeyUp
+DELAY : 997
+Mouse : 2659 : 108 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2659 : 108 : LeftButtonUp : 0 : 0 : 0
+DELAY : 999
+Keyboard : End : KeyDown
+DELAY : 95
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 89
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 79
+Keyboard : Delete : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 71
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 47
+Keyboard : Enter : KeyUp
+DELAY : 991
+Mouse : 1632 : 143 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 1632 : 143 : LeftButtonUp : 0 : 0 : 0
+DELAY : 994
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 64
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 95
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 87
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 87
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 96
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 47
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 79
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 88
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 87
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 87
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 39
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 79
+Keyboard : Enter : KeyUp
+DELAY : 997
+Keyboard : End : KeyDown
+DELAY : 71
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 88
+Keyboard : Home : KeyDown
+DELAY : 96
+Keyboard : Home : KeyUp
+DELAY : 63
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 79
+Keyboard : ShiftLeft : KeyUp
+Keyboard : KeyCode222 : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 55
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 89
+Keyboard : Enter : KeyDown
+DELAY : 94
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 95
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 63
+Keyboard : Left : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 995
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 47
+Keyboard : ControlLeft : KeyUp
+DELAY : 999
+Mouse : 2792 : 82 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2792 : 82 : LeftButtonUp : 0 : 0 : 0
+DELAY : 990
+Mouse : 2749 : 107 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2749 : 107 : LeftButtonUp : 0 : 0 : 0
+DELAY : 996
+Keyboard : End : KeyDown
+DELAY : 94
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 88
+Keyboard : Home : KeyDown
+DELAY : 88
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 95
+Keyboard : Delete : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 55
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 71
+Keyboard : Enter : KeyUp
+DELAY : 991
+Mouse : 1462 : 148 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 1462 : 148 : LeftButtonUp : 0 : 0 : 0
+DELAY : 994
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 56
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 72
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 88
+Keyboard : End : KeyDown
+DELAY : 99
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 47
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 72
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 94
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 95
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 86
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 62
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 79
+Keyboard : Enter : KeyUp
+DELAY : 999
+Keyboard : End : KeyDown
+DELAY : 71
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 80
+Keyboard : Home : KeyDown
+DELAY : 80
+Keyboard : Home : KeyUp
+DELAY : 15
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 96
+Keyboard : KeyCode222 : KeyUp
+DELAY : 15
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 88
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 56
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 86
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 95
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 94
+Keyboard : Space : KeyUp
+DELAY : 66
+Keyboard : Enter : KeyDown
+DELAY : 95
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 80
+Keyboard : Left : KeyUp
+DELAY : 39
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 71
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 82
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : R : KeyDown
+DELAY : 70
+Keyboard : R : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 70
+Keyboard : Delete : KeyUp
+DELAY : 992
+Mouse : 2326 : 83 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2326 : 83 : LeftButtonUp : 0 : 0 : 0
+DELAY : 995
+Mouse : 2562 : 119 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2562 : 119 : LeftButtonUp : 0 : 0 : 0
+DELAY : 991
+Keyboard : End : KeyDown
+DELAY : 78
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 88
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 47
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Mouse : 2198 : 287 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2198 : 287 : LeftButtonUp : 0 : 0 : 0
+DELAY : 999
+Keyboard : Home : KeyDown
+DELAY : 72
+Keyboard : Home : KeyUp
+DELAY : 88
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 87
+Keyboard : ShiftLeft : KeyUp
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 71
+Keyboard : Delete : KeyUp
+DELAY : 48
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 47
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 72
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 80
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 71
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 80
+Keyboard : Enter : KeyUp
+DELAY : 991
+Keyboard : Escape : KeyDown
+DELAY : 94
+Keyboard : Escape : KeyUp
+DELAY : 994
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 81
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 79
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 78
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 99
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 31
+Keyboard : ControlLeft : KeyUp
+DELAY : 999
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 46
+Keyboard : ControlLeft : KeyUp
+DELAY : 994
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 55
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 73
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 79
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 87
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 70
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 31
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 87
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 79
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 88
+Keyboard : Home : KeyUp
+DELAY : 71
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 81
+Keyboard : KeyCode222 : KeyUp
+DELAY : 47
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 62
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 99
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 95
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 88
+Keyboard : Left : KeyUp
+DELAY : 55
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 79
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 88
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : R : KeyDown
+DELAY : 86
+Keyboard : R : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 71
+Keyboard : Delete : KeyUp
+DELAY : 991
+Mouse : 2430 : 76 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2430 : 76 : LeftButtonUp : 0 : 0 : 0
+DELAY : 99
+Mouse : 2541 : 112 : LeftButtonDown : 0 : 0 : 0
+DELAY : 90
+Mouse : 2541 : 112 : LeftButtonUp : 0 : 0 : 0
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 95
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 88
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 31
+Keyboard : ControlLeft : KeyUp
+DELAY : 995
+Mouse : 2201 : 293 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2201 : 293 : LeftButtonUp : 0 : 0 : 0
+DELAY : 997
+Keyboard : Home : KeyDown
+DELAY : 79
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 96
+Keyboard : End : KeyDown
+DELAY : 80
+Keyboard : End : KeyUp
+DELAY : 15
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 79
+Keyboard : Delete : KeyUp
+DELAY : 57
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 31
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 72
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 54
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 71
+Keyboard : Enter : KeyUp
+DELAY : 991
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 72
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 997
+Mouse : 1630 : 142 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 1630 : 142 : LeftButtonUp : 0 : 0 : 0
+DELAY : 998
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 72
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 79
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 47
+Keyboard : ControlLeft : KeyUp
+DELAY : 73
+Keyboard : End : KeyDown
+DELAY : 79
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 99
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 95
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 87
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 55
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 80
+Keyboard : Enter : KeyUp
+DELAY : 999
+Keyboard : End : KeyDown
+DELAY : 63
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 80
+Keyboard : Home : KeyUp
+DELAY : 71
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 63
+Keyboard : ShiftLeft : KeyUp
+DELAY : 16
+Keyboard : KeyCode222 : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 86
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 63
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 63
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 87
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 79
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 94
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 99
+Keyboard : Left : KeyUp
+DELAY : 38
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 79
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 86
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : R : KeyDown
+DELAY : 95
+Keyboard : R : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 71
+Keyboard : Delete : KeyUp
+DELAY : 995
+Mouse : 2548 : 79 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2548 : 79 : LeftButtonUp : 0 : 0 : 0
+DELAY : 99
+Mouse : 2566 : 109 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2566 : 109 : LeftButtonUp : 0 : 0 : 0
+DELAY : 990
+Keyboard : End : KeyDown
+DELAY : 63
+Keyboard : End : KeyUp
+DELAY : 990
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 80
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 31
+Keyboard : ControlLeft : KeyUp
+DELAY : 993
+Mouse : 2188 : 295 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2188 : 294 : LeftButtonUp : 0 : 0 : 0
+DELAY : 99
+Mouse : 2193 : 294 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2193 : 294 : LeftButtonUp : 0 : 0 : 0
+DELAY : 997
+Keyboard : Home : KeyDown
+DELAY : 95
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 64
+Keyboard : End : KeyDown
+DELAY : 80
+Keyboard : End : KeyUp
+DELAY : 39
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 79
+Keyboard : Delete : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 47
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 96
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 55
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 87
+Keyboard : Enter : KeyUp
+DELAY : 999
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 995
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 80
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 72
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 72
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 88
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 31
+Keyboard : ControlLeft : KeyUp
+DELAY : 73
+Keyboard : End : KeyDown
+DELAY : 71
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 99
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 95
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 87
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 31
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 80
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 71
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 80
+Keyboard : Home : KeyDown
+DELAY : 88
+Keyboard : Home : KeyUp
+DELAY : 23
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 80
+Keyboard : ShiftLeft : KeyUp
+Keyboard : KeyCode222 : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 95
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 79
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 63
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 71
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 86
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 95
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 81
+Keyboard : Enter : KeyDown
+DELAY : 87
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 95
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 64
+Keyboard : Left : KeyUp
+DELAY : 55
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 87
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 95
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : R : KeyDown
+DELAY : 78
+Keyboard : R : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 71
+Keyboard : Delete : KeyUp
+DELAY : 992
+Mouse : 2651 : 75 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2651 : 75 : LeftButtonUp : 0 : 0 : 0
+DELAY : 994
+Mouse : 2660 : 107 : LeftButtonDown : 0 : 0 : 0
+DELAY : 91
+Mouse : 2660 : 107 : LeftButtonUp : 0 : 0 : 0
+DELAY : 996
+Keyboard : End : KeyDown
+DELAY : 99
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 72
+Keyboard : Home : KeyDown
+DELAY : 88
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 47
+Keyboard : ControlLeft : KeyUp
+DELAY : 996
+Mouse : 2184 : 294 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2184 : 294 : LeftButtonUp : 0 : 0 : 0
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 71
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 80
+Keyboard : End : KeyUp
+DELAY : 31
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 71
+Keyboard : Delete : KeyUp
+DELAY : 66
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 38
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 88
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 79
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 71
+Keyboard : Enter : KeyUp
+DELAY : 997
+Keyboard : Escape : KeyDown
+DELAY : 86
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 48
+Keyboard : Home : KeyUp
+DELAY : 80
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 70
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 63
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : Down : KeyDown
+DELAY : 63
+Keyboard : Down : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 96
+Keyboard : End : KeyDown
+DELAY : 99
+Keyboard : End : KeyUp
+DELAY : 71
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 31
+Keyboard : ControlLeft : KeyUp
+DELAY : 49
+Keyboard : End : KeyDown
+DELAY : 71
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 80
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 95
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : F : KeyDown
+DELAY : 86
+Keyboard : F : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 97
+Keyboard : V : KeyUp
+DELAY : 63
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 71
+Keyboard : Enter : KeyUp
+DELAY : 99
+Keyboard : End : KeyDown
+DELAY : 71
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 96
+Keyboard : Home : KeyDown
+DELAY : 80
+Keyboard : Home : KeyUp
+DELAY : 54
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : KeyCode222 : KeyDown
+DELAY : 72
+Keyboard : KeyCode222 : KeyUp
+DELAY : 23
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 86
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 72
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 87
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 96
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Space : KeyDown
+DELAY : 99
+Keyboard : Space : KeyUp
+DELAY : 73
+Keyboard : Enter : KeyDown
+DELAY : 86
+Keyboard : Enter : KeyUp
+DELAY : 97
+Keyboard : Space : KeyDown
+DELAY : 96
+Keyboard : Space : KeyUp
+DELAY : 99
+Keyboard : Escape : KeyDown
+DELAY : 99
+Keyboard : Escape : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Left : KeyDown
+DELAY : 88
+Keyboard : Left : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : AltLeft : KeyDown
+DELAY : 87
+Keyboard : AltLeft : KeyUp
+DELAY : 99
+Keyboard : S : KeyDown
+DELAY : 79
+Keyboard : S : KeyUp
+DELAY : 99
+Keyboard : R : KeyDown
+DELAY : 79
+Keyboard : R : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 79
+Keyboard : Delete : KeyUp
+DELAY : 994
+Mouse : 2770 : 79 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2767 : 79 : LeftButtonUp : 0 : 0 : 0
+DELAY : 99
+Mouse : 2677 : 113 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2677 : 113 : LeftButtonUp : 0 : 0 : 0
+DELAY : 999
+Keyboard : End : KeyDown
+DELAY : 95
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 99
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : C : KeyDown
+DELAY : 99
+Keyboard : C : KeyUp
+DELAY : 32
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Mouse : 2214 : 290 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : 2214 : 290 : LeftButtonUp : 0 : 0 : 0
+DELAY : 99
+Keyboard : Home : KeyDown
+DELAY : 62
+Keyboard : Home : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 95
+Keyboard : End : KeyDown
+DELAY : 88
+Keyboard : ShiftLeft : KeyUp
+Keyboard : End : KeyUp
+DELAY : 99
+Keyboard : Delete : KeyDown
+DELAY : 80
+Keyboard : Delete : KeyUp
+DELAY : 57
+Keyboard : ControlLeft : KeyDown
+DELAY : 99
+Keyboard : V : KeyDown
+DELAY : 99
+Keyboard : V : KeyUp
+DELAY : 62
+Keyboard : ControlLeft : KeyUp
+DELAY : 99
+Keyboard : ShiftLeft : KeyDown
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 81
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 64
+Keyboard : Tab : KeyUp
+DELAY : 99
+Keyboard : Tab : KeyDown
+DELAY : 95
+Keyboard : Tab : KeyUp
+DELAY : 80
+Keyboard : ShiftLeft : KeyUp
+DELAY : 99
+Keyboard : Enter : KeyDown
+DELAY : 79
+Keyboard : Enter : KeyUp
