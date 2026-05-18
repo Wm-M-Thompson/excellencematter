@@ -1,17 +1,11 @@
-import type { Metadata } from "next";
+"use client";
 
-export const metadata: Metadata = {
-  title: "Interaction | WEC MFG",
-  description: "WEC MFG Interaction Page",
-};
+import { useSearchParams } from "next/navigation";
+import { Suspense } from "react";
 
-interface PageProps {
-  searchParams: { [key: string]: string | string[] | undefined };
-}
-
-export default function Interaction({ searchParams }: PageProps) {
-  const redirectParam = searchParams["redirect"];
-  const redirect = Array.isArray(redirectParam) ? redirectParam[0] : redirectParam;
+function InteractionFrame() {
+  const searchParams = useSearchParams();
+  const redirect = searchParams.get("redirect");
   
   const iframeSrc = redirect
     ? decodeURIComponent(redirect)
@@ -29,5 +23,13 @@ export default function Interaction({ searchParams }: PageProps) {
         title="LikableLogic Forum"
       />
     </div>
+  );
+}
+
+export default function Interaction() {
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <InteractionFrame />
+    </Suspense>
   );
 }
