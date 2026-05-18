@@ -5,13 +5,16 @@ export const metadata: Metadata = {
   description: "WEC MFG Interaction Page",
 };
 
-export default function Interaction({
-  searchParams,
-}: {
-  searchParams: { redirect?: string };
-}) {
-  const iframeSrc = searchParams.redirect
-    ? decodeURIComponent(searchParams.redirect)
+interface PageProps {
+  searchParams: { [key: string]: string | string[] | undefined };
+}
+
+export default function Interaction({ searchParams }: PageProps) {
+  const redirectParam = searchParams["redirect"];
+  const redirect = Array.isArray(redirectParam) ? redirectParam[0] : redirectParam;
+  
+  const iframeSrc = redirect
+    ? decodeURIComponent(redirect)
     : "https://bbpress.excellencematter.net/interaction/";
 
   return (
