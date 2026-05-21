@@ -1,12 +1,19 @@
 "use client";
 
 import { useSearchParams } from "next/navigation";
-import { Suspense } from "react";
+import { Suspense, useEffect } from "react";
 
 function InteractionFrame() {
   const searchParams = useSearchParams();
   const redirect = searchParams.get("redirect");
-  
+
+  useEffect(() => {
+    if (!sessionStorage.getItem("interaction_refreshed")) {
+      sessionStorage.setItem("interaction_refreshed", "true");
+      window.location.reload();
+    }
+  }, []);
+
   const iframeSrc = redirect
     ? decodeURIComponent(redirect)
     : "https://bbpress.excellencematter.net/interaction/";
