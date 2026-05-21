@@ -13,13 +13,22 @@ function InteractionFrame() {
 
   return (
     <div style={{ 
-      width: '100%',
-      height: 'calc(100vh - 64px)',
-      overflow: 'hidden'
+      position: 'fixed',
+      top: '64px',
+      left: 0,
+      right: 0,
+      bottom: 0,
+      overflow: 'hidden',
+      zIndex: 0
     }}>
       <iframe
         src={iframeSrc}
-        style={{ width: '100%', height: '100%', border: 'none' }}
+        style={{ 
+          width: '100%', 
+          height: '100%', 
+          border: 'none',
+          display: 'block'
+        }}
         title="LikableLogic Forum"
       />
     </div>
