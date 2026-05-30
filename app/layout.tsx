@@ -146,7 +146,7 @@ export default function RootLayout({
       </li>
 
       <li>
-        <Link href="/pdf/OTHER_PRODUCTS_WEC.pdf" className="block px-4 py-2 hover:bg-gray-100">Other Products</Link>
+        <Link href="/pdfs/OTHER_PRODUCTS_WEC.pdf" className="block px-4 py-2 hover:bg-gray-100">Other Products</Link>
       </li>
     </ul>
   </div>
